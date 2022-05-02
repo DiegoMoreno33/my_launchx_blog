@@ -13,7 +13,7 @@ jobs:
       with:
         submodules: true
         fetch-depth: 0
-        persist-credentials: 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
+    
       
     - name: Setup GoHugo
       uses: peaceiris/actions-hugo@v2
