@@ -1,13 +1,13 @@
 {
   "links": [
     {
-      "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/diego-moreno-ostoa/",
       "image": "images/social/twitter.svg"
     },
     {
       "name": "github",
-      "url": "https://github.com/zerostaticthemes",
+      "url": "https://github.com/DiegoMoreno33",
       "image": "images/social/github.svg"
     }
   ]
